@@ -75,6 +75,3 @@ Run Instructions
 pip install -r requirements.txt
 python notebook.ipynb
 
-License
-
-MIT License
